@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ashok Sana</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
+<!-- Add certification badges here -->
+![AWS Certified Solutions Architect - Associate](https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
+![AWS re/start Accredited Instructor](https://images.credly.com/images/e426d40e-8a6a-4f72-866e-2abfcfbde46b/image.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashoksana&label=Profile%20views&color=0e75b6&style=flat" alt="ashoksana" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashoksana" alt="ashoksana" /></a> </p>
