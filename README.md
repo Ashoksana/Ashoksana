@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect - Associate" width="100" />
   <img src="https://images.credly.com/images/e426d40e-8a6a-4f72-866e-2abfcfbde46b/image.png" alt="AWS re/start Accredited Instructor" width="100" />
+  <img src="https://images.credly.com/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" alt="GCP Associate Cloud Engineer" width="100" />
 </p>
 
 
